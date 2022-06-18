@@ -15,7 +15,7 @@ class AppBarTitle extends StatelessWidget {
         ),
         const SizedBox(width: 8),
         Text(
-          'FlutterFire',
+          'Firbase Login App',
           style: TextStyle(
             color: CustomColors.firebaseYellow,
             fontSize: 18,

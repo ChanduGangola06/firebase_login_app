@@ -39,7 +39,7 @@ class _SignInScreenState extends State<SignInScreen> {
                     ),
                     const SizedBox(height: 20),
                     Text(
-                      'FlutterFire',
+                      'Firebase Login App',
                       style: TextStyle(
                         color: CustomColors.firebaseYellow,
                         fontSize: 40,
